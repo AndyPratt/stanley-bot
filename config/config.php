@@ -16,10 +16,10 @@ $projectPhoneNumber="YOUR PHONE NUMBER";
 
 
 // Twilio API credentials
-$accountSid = "YOUR ACCOUNT SID";
-$authToken = "YOUR ACCOUNT TOKEN"; //
-$twilioPhoneNumber = "YOUR TWILIO PHONE NUMBER";
-$siteURL="YOUR SITE URL";
+$accountSid = "AC8084fcf2779953e82c5b67b4e7425fae";
+$authToken = "8f77ebccddcba91474d313133e7ef775"; //
+$twilioPhoneNumber = "16463790081";
+$siteURL= "dondon3000.herokuapp.com";
 
 
 // Slack Webhook integration
