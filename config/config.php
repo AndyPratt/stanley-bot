@@ -23,9 +23,9 @@ $siteURL= "dondon3000.herokuapp.com";
 
 
 // Slack Webhook integration
-$slackWebHookURL="YOUR SLACK PRIVATE CHANNEL WEB HOOK";
-$slackRoom = "THE NAME OF YOUR SLACK ROOM";
-$slackBotName = "Stanley"; //THE NAME OF YOUR BOT
+$slackWebHookURL="http://mattermost.favoritemedium.net/hooks/84zs33gnhb8a7x7ffzdtrg56fy";
+$slackRoom = "DonDonBot";
+$slackBotName = "DonDon"; //THE NAME OF YOUR BOT
 $slackBotIcon = ":robot_face:"; // THE PROFILE IMAGE OF YOUR BOT example :money_mouth_face: or :shit:
 
 
